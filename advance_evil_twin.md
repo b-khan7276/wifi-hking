@@ -33,16 +33,14 @@ airmon-ng start wlam0
   wireshark capture.cap
   ```
   
-  # Setp 1
+  # Setp 1 Create access point
+  
   
   - Install dnsmasq hostapd
   
-   ```bash
+  ```
         apt install dnsmasq hostapd
-        ```
-        
-  
-  
+  ```     
   
   
   
